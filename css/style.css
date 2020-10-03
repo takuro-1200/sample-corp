@@ -54,7 +54,7 @@ body {
 .header {
   max-width: 1280px;
   margin: 0 auto;
-  background: url(/image/mv.png);
+  background: url(https://takuro-1200.github.io/sample-corp/image/mv.png);
   width: 100%;
   height: 648px;
 }
@@ -284,7 +284,7 @@ body {
 .news-link:after {
   content: "";
   position: absolute;
-  background: url(/image/news-arrow.png);
+  background: url(https://takuro-1200.github.io/sample-corp/image/news-arrow.png);
   width: 14px;
   height: 24px;
   right: 18px;
@@ -803,7 +803,7 @@ body {
     Q&A
 ---------------------------------------------------------------------------------------------*/
 .qaa {
-  background: url(/image/qa-bg.png);
+  background: url(https://takuro-1200.github.io/sample-corp/image/qa-bg.png);
   padding: 0 40px;
   padding-bottom: 120px;
   position: relative;
@@ -1033,7 +1033,7 @@ body {
 ---------------------------------------------------------------------------------------------*/
 .contact {
   margin-top: 240px;
-  background: url(/image/contact-bg.png);
+  background: url(https://takuro-1200.github.io/sample-corp/image/contact-bg.png);
   padding: 60px 160px;
 }
 
@@ -1045,7 +1045,7 @@ body {
 }
 
 .contact-title-box {
-  background: url(/image/contact1.png) no-repeat center top;
+  background: url(https://takuro-1200.github.io/sample-corp/image/contact1.png) no-repeat center top;
   text-align: center;
   margin: 0 auto;
   color: #fff;
